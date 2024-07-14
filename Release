@@ -1,0 +1,11 @@
+Origin: BTRepo
+Label: BT
+Suite: stable
+Version: 1.0
+Codename: NuetronFile
+Architecture: iphoneos-arm
+Components: main
+Description: ProtonFile Best Repo for Zebra! 
+MD5Sum:
+ d8a12c8dcbe517f2df571e0abbf0f70b 411 Packages
+ 42b92f5c3a8e36f98784dcf7fe186b89 324 Packages.gz
