@@ -1,0 +1,11 @@
+Origin: ProtonFile's Repo
+Label: ProtonFile
+Suite: stable
+Version: 1.0
+Codename: NuetronFile
+Architecture: iphoneos-arm
+Components: main
+Description: ProtonFile Best Repo for all Packages! Cydia + Sileo + Installer + Zebra! & Saily.
+MD5Sum:
+ d8a12c8dcbe517f2df571e0abbf0f70b 411 Packages
+ 7e1937824b6ebc509eba3ee6ca836eb6 324 Packages.gz
